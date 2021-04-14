@@ -1,0 +1,4 @@
+Aby uruchomić program z CMD, proszę wejść do folderu OptymalizacjaZad1/bin/Debug,
+otworzyć CMD w tym folderze i wpisać: 
+OptymalizacjaZad1.exe "punkty.txt" k
+gdzie k to liczba elementów w podzbiorze.

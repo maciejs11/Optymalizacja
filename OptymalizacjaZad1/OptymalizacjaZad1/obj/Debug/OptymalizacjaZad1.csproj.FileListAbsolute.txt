@@ -1,0 +1,7 @@
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\bin\Debug\OptymalizacjaZad1.exe.config
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\bin\Debug\OptymalizacjaZad1.exe
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\bin\Debug\OptymalizacjaZad1.pdb
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\obj\Debug\OptymalizacjaZad1.csprojAssemblyReference.cache
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\obj\Debug\OptymalizacjaZad1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\obj\Debug\OptymalizacjaZad1.exe
+D:\Visual Studio 2017 - projekty (dysk D)\OptymalizacjaZad1\OptymalizacjaZad1\obj\Debug\OptymalizacjaZad1.pdb
